@@ -1,0 +1,249 @@
+[{
+  "_id": {
+    "$oid": "6342f20a992b72956880fa28"
+  },
+  "roomNum": "1",
+  "floorNum": "1",
+  "blockNum": "1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6342f27f992b72956880fa30"
+  },
+  "roomNum": "2",
+  "floorNum": "1",
+  "blockNum": "1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6342f2a5bcfcaba2b1bfada9"
+  },
+  "roomNum": "3",
+  "floorNum": "1",
+  "blockNum": "1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6342f447bac3f6003822fa29"
+  },
+  "roomNum": "4",
+  "floorNum": "1",
+  "blockNum": "1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6342f8c581d4b6f360983e2d"
+  },
+  "roomNum": "5",
+  "floorNum": "1",
+  "blockNum": "1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6342f8ec81d4b6f360983e32"
+  },
+  "roomNum": "10",
+  "floorNum": "1",
+  "blockNum": "3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63432209cc0834087e83bb41"
+  },
+  "roomNum": "1",
+  "floorNum": "1",
+  "blockNum": "2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63445c406a9eed880945f0e8"
+  },
+  "roomNum": "4",
+  "floorNum": "4",
+  "blockNum": "4",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63445c807fe76ac13e811dc9"
+  },
+  "roomNum": "3",
+  "floorNum": "3",
+  "blockNum": "3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63445d27ae9c52abea53f46a"
+  },
+  "roomNum": "15",
+  "floorNum": "2",
+  "blockNum": "4",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63445dcb42c13bcc8f9451fd"
+  },
+  "roomNum": "6",
+  "floorNum": "4",
+  "blockNum": "3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6348a121c2d3af70e425751e"
+  },
+  "roomNum": "16",
+  "floorNum": "1",
+  "blockNum": "1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6348a5d1872ce65eaa4a0ea8"
+  },
+  "roomNum": "2",
+  "floorNum": "4",
+  "blockNum": "4",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6348a615b733aad3158d7e8e"
+  },
+  "roomNum": "1",
+  "floorNum": "2",
+  "blockNum": "3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6348a6b80b9deb3bf7540228"
+  },
+  "roomNum": "1",
+  "floorNum": "4",
+  "blockNum": "1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6348ab064a85eb255cbbd8f7"
+  },
+  "roomNum": "10",
+  "floorNum": "2",
+  "blockNum": "2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6348ab848e3c7949753eb578"
+  },
+  "roomNum": "10",
+  "floorNum": "2",
+  "blockNum": "2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6348aba4d02094b838755ed0"
+  },
+  "roomNum": "10",
+  "floorNum": "2",
+  "blockNum": "2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6348b3fdea76c91065029539"
+  },
+  "roomNum": "3",
+  "floorNum": "2",
+  "blockNum": "3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6348b4b33ee5bb9b34ae1b0d"
+  },
+  "roomNum": "1",
+  "floorNum": "2",
+  "blockNum": "1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6348b4d4eeb1c52e46e15c9d"
+  },
+  "roomNum": "1",
+  "floorNum": "3",
+  "blockNum": "1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6348b51675a0a8203a704a8e"
+  },
+  "roomNum": "1",
+  "floorNum": "2",
+  "blockNum": "2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6348b52b75a0a8203a704aca"
+  },
+  "roomNum": "2",
+  "floorNum": "2",
+  "blockNum": "2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6348b53e75a0a8203a704b23"
+  },
+  "roomNum": "9",
+  "floorNum": "1",
+  "blockNum": "1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63497038d1949b2cde13c6b6"
+  },
+  "roomNum": "13",
+  "floorNum": "1",
+  "blockNum": "1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6383a789bb6d1930003ec072"
+  },
+  "roomNum": "12",
+  "floorNum": "1",
+  "blockNum": "1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6383c8d5773d3ede4721f531"
+  },
+  "roomNum": "10",
+  "floorNum": "2",
+  "blockNum": "1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6383c951954713bfd593887d"
+  },
+  "roomNum": "13",
+  "floorNum": "3",
+  "blockNum": "1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63453d19d607635ad580dcc0"
+  },
+  "roomNum": "1",
+  "floorNum": "1",
+  "blockNum": "1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "634540c4d607635ad580dcd4"
+  },
+  "roomNum": "2",
+  "floorNum": "2",
+  "blockNum": "2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63468f146aaed1575391e9e7"
+  },
+  "roomNum": "3",
+  "floorNum": "1",
+  "blockNum": "1",
+  "__v": 0
+}]

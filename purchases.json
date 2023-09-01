@@ -1,0 +1,169 @@
+[{
+  "_id": {
+    "$oid": "638c552ccb44335b4ff5dae5"
+  },
+  "docNumber": "۱۲۳۴",
+  "ingradient": "برنج",
+  "ingradientType": "stock",
+  "amount": {
+    "$numberDecimal": "10000"
+  },
+  "price": {
+    "$numberDecimal": "80"
+  },
+  "totalPrice": {
+    "$numberDecimal": "800000"
+  },
+  "date": "1444-05-01",
+  "from": "ارزاق دولتی",
+  "description": "",
+  "stock_fk": {
+    "$oid": "638c5504cb44335b4ff5da97"
+  },
+  "dailyMenu_fk": null,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638c555ecb44335b4ff5db2f"
+  },
+  "docNumber": "۱۲۳۳",
+  "ingradient": "روغن",
+  "ingradientType": "stock",
+  "amount": {
+    "$numberDecimal": "1000"
+  },
+  "price": {
+    "$numberDecimal": "70"
+  },
+  "totalPrice": {
+    "$numberDecimal": "70000"
+  },
+  "date": "1444-05-01",
+  "from": "ارزاق ذولتی",
+  "description": "",
+  "stock_fk": {
+    "$oid": "638c550ccb44335b4ff5dabe"
+  },
+  "dailyMenu_fk": null,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638c55dbcb44335b4ff5dcfd"
+  },
+  "docNumber": "800",
+  "ingradient": "کیک",
+  "ingradientType": "m-7",
+  "amount": {
+    "$numberDecimal": "30"
+  },
+  "price": {
+    "$numberDecimal": "170"
+  },
+  "totalPrice": {
+    "$numberDecimal": "5100"
+  },
+  "date": "1444-05-01",
+  "from": "کیک فروشی",
+  "description": "",
+  "stock_fk": null,
+  "dailyMenu_fk": {
+    "$oid": "638c55b9cb44335b4ff5dc2f"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638c55dbcb44335b4ff5dcfe"
+  },
+  "docNumber": "800",
+  "ingradient": "نان",
+  "ingradientType": "m-7",
+  "amount": {
+    "$numberDecimal": "120"
+  },
+  "price": {
+    "$numberDecimal": "20"
+  },
+  "totalPrice": {
+    "$numberDecimal": "2400"
+  },
+  "date": "1444-05-01",
+  "from": "کیک فروشی",
+  "description": "",
+  "stock_fk": null,
+  "dailyMenu_fk": {
+    "$oid": "638c55b9cb44335b4ff5dc2f"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638c569acb44335b4ff5e18a"
+  },
+  "docNumber": "801",
+  "ingradient": "کیک",
+  "ingradientType": "m-7",
+  "amount": {
+    "$numberDecimal": "40"
+  },
+  "price": {
+    "$numberDecimal": "170"
+  },
+  "totalPrice": {
+    "$numberDecimal": "6800.000"
+  },
+  "date": "1444-05-02",
+  "from": "کیک فروشی",
+  "description": "",
+  "stock_fk": null,
+  "dailyMenu_fk": {
+    "$oid": "638c5640cb44335b4ff5dfb3"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638c569acb44335b4ff5e18b"
+  },
+  "docNumber": "801",
+  "ingradient": "نان",
+  "ingradientType": "m-7",
+  "amount": {
+    "$numberDecimal": "160"
+  },
+  "price": {
+    "$numberDecimal": "20"
+  },
+  "totalPrice": {
+    "$numberDecimal": "3200.000"
+  },
+  "date": "1444-05-02",
+  "from": "کیک فروشی",
+  "description": "",
+  "stock_fk": null,
+  "dailyMenu_fk": {
+    "$oid": "638c5640cb44335b4ff5dfb3"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638c7871582fe0a72ba84bcb"
+  },
+  "docNumber": "12234",
+  "ingradient": "مساله قورمه",
+  "ingradientType": "stock",
+  "amount": {
+    "$numberDecimal": "100"
+  },
+  "price": {
+    "$numberDecimal": "100"
+  },
+  "totalPrice": {
+    "$numberDecimal": "10000"
+  },
+  "date": "1444-05-01",
+  "from": "سیلو",
+  "description": "",
+  "stock_fk": {
+    "$oid": "638c7853582fe0a72ba84ba4"
+  },
+  "dailyMenu_fk": null,
+  "__v": 0
+}]

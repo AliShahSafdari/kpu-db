@@ -1,0 +1,29 @@
+[{
+  "_id": {
+    "$oid": "638c58eccb44335b4ff5e5ba"
+  },
+  "name": "احمد",
+  "fName": "عوض",
+  "gFName": "صفدر",
+  "Job": "استاد",
+  "province": "غزنی",
+  "destrict": "ناهور",
+  "tazkiraNum": "4477766600",
+  "idCard": "j70888099988",
+  "phoneNum": "0789065433",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638c591ccb44335b4ff5e61c"
+  },
+  "name": "علی شاه",
+  "fName": "محمد کاظم",
+  "gFName": "صفدر",
+  "Job": "استاد",
+  "province": "غزنی",
+  "destrict": "ناهور",
+  "tazkiraNum": "447776",
+  "idCard": "j70099988",
+  "phoneNum": "07890654876",
+  "__v": 0
+}]

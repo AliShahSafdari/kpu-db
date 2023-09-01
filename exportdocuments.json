@@ -1,0 +1,31 @@
+[{
+  "_id": {
+    "$oid": "638c4b8a8ff6ed37e3bc33cb"
+  },
+  "summary": "بخاطر نیاز به اجناس پوهنتون",
+  "from": "مدیریت اجناس",
+  "to": "پوهنتون",
+  "docSequenceNum": "808090",
+  "docDate": "1444-05-10",
+  "docExportDate": "1444-05-10",
+  "considration": "بخاطر نیازپوهنتون پروان",
+  "registerBook_fk": {
+    "$oid": "63589536857976c0d29f2b36"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638c4bd58ff6ed37e3bc33f7"
+  },
+  "summary": "بخاطر نیاز به اجناس ننگرهار",
+  "from": "مدیریت اجناس",
+  "to": "پوهنتون ننگرهار",
+  "docSequenceNum": "909080",
+  "docDate": "1444-05-10",
+  "docExportDate": "1444-05-10",
+  "considration": "بخاطر نیازپوهنتون ننگرهار",
+  "registerBook_fk": {
+    "$oid": "63589536857976c0d29f2b36"
+  },
+  "__v": 0
+}]

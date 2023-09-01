@@ -1,0 +1,107 @@
+[{
+  "_id": {
+    "$oid": "638c55a5cb44335b4ff5dbe0"
+  },
+  "menuType": "الف",
+  "ingradient": "برنج",
+  "morningIngradientAmount": {
+    "$numberDecimal": "0"
+  },
+  "noonIngradientAmount": {
+    "$numberDecimal": "80"
+  },
+  "nightIngradientAmount": {
+    "$numberDecimal": "0"
+  },
+  "calory": {
+    "$numberDecimal": "0"
+  },
+  "stock_fk": {
+    "$oid": "638c5504cb44335b4ff5da97"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638c55a5cb44335b4ff5dbe3"
+  },
+  "menuType": "الف",
+  "ingradient": "روغن",
+  "morningIngradientAmount": {
+    "$numberDecimal": "0"
+  },
+  "noonIngradientAmount": {
+    "$numberDecimal": "5"
+  },
+  "nightIngradientAmount": {
+    "$numberDecimal": "0"
+  },
+  "calory": {
+    "$numberDecimal": "0"
+  },
+  "stock_fk": {
+    "$oid": "638c550ccb44335b4ff5dabe"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638c55a5cb44335b4ff5dbe5"
+  },
+  "menuType": "الف",
+  "ingradient": "کیک",
+  "morningIngradientAmount": {
+    "$numberDecimal": "50"
+  },
+  "noonIngradientAmount": {
+    "$numberDecimal": "0"
+  },
+  "nightIngradientAmount": {
+    "$numberDecimal": "0"
+  },
+  "calory": {
+    "$numberDecimal": "0"
+  },
+  "stock_fk": null,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638c55a5cb44335b4ff5dbe7"
+  },
+  "menuType": "الف",
+  "ingradient": "نان",
+  "morningIngradientAmount": {
+    "$numberDecimal": "100"
+  },
+  "noonIngradientAmount": {
+    "$numberDecimal": "100"
+  },
+  "nightIngradientAmount": {
+    "$numberDecimal": "0"
+  },
+  "calory": {
+    "$numberDecimal": "0"
+  },
+  "stock_fk": null,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638c78a8582fe0a72ba84c37"
+  },
+  "menuType": "الف",
+  "ingradient": "مساله قورمه",
+  "morningIngradientAmount": {
+    "$numberDecimal": "0"
+  },
+  "noonIngradientAmount": {
+    "$numberDecimal": "5"
+  },
+  "nightIngradientAmount": {
+    "$numberDecimal": "5"
+  },
+  "calory": {
+    "$numberDecimal": "0"
+  },
+  "stock_fk": {
+    "$oid": "638c7853582fe0a72ba84ba4"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,211 @@
+[{
+  "_id": {
+    "$oid": "638c3af874f04fe2ce0218f4"
+  },
+  "ingradient": "کیک",
+  "totalIngradientAmount": {
+    "$numberDecimal": "5"
+  },
+  "status": "purchased",
+  "ingradientType": "m-7",
+  "dailyMenu_fk": {
+    "$oid": "638c3af874f04fe2ce0218f0"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638c3af874f04fe2ce0218f6"
+  },
+  "ingradient": "برنج سیله اول",
+  "totalIngradientAmount": {
+    "$numberDecimal": "10"
+  },
+  "status": "purchased",
+  "ingradientType": "stock",
+  "dailyMenu_fk": {
+    "$oid": "638c3af874f04fe2ce0218f0"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638c55b9cb44335b4ff5dc33"
+  },
+  "ingradient": "برنج",
+  "totalIngradientAmount": {
+    "$numberDecimal": "48"
+  },
+  "status": "purchased",
+  "ingradientType": "stock",
+  "dailyMenu_fk": {
+    "$oid": "638c55b9cb44335b4ff5dc2f"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638c55b9cb44335b4ff5dc35"
+  },
+  "ingradient": "روغن",
+  "totalIngradientAmount": {
+    "$numberDecimal": "3"
+  },
+  "status": "purchased",
+  "ingradientType": "stock",
+  "dailyMenu_fk": {
+    "$oid": "638c55b9cb44335b4ff5dc2f"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638c55b9cb44335b4ff5dc37"
+  },
+  "ingradient": "کیک",
+  "totalIngradientAmount": {
+    "$numberDecimal": "30"
+  },
+  "status": "purchased",
+  "ingradientType": "m-7",
+  "dailyMenu_fk": {
+    "$oid": "638c55b9cb44335b4ff5dc2f"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638c55b9cb44335b4ff5dc39"
+  },
+  "ingradient": "نان",
+  "totalIngradientAmount": {
+    "$numberDecimal": "120"
+  },
+  "status": "purchased",
+  "ingradientType": "m-7",
+  "dailyMenu_fk": {
+    "$oid": "638c55b9cb44335b4ff5dc2f"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638c5640cb44335b4ff5dfb7"
+  },
+  "ingradient": "برنج",
+  "totalIngradientAmount": {
+    "$numberDecimal": "64"
+  },
+  "status": "purchased",
+  "ingradientType": "stock",
+  "dailyMenu_fk": {
+    "$oid": "638c5640cb44335b4ff5dfb3"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638c5640cb44335b4ff5dfb9"
+  },
+  "ingradient": "روغن",
+  "totalIngradientAmount": {
+    "$numberDecimal": "4"
+  },
+  "status": "purchased",
+  "ingradientType": "stock",
+  "dailyMenu_fk": {
+    "$oid": "638c5640cb44335b4ff5dfb3"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638c5640cb44335b4ff5dfbb"
+  },
+  "ingradient": "کیک",
+  "totalIngradientAmount": {
+    "$numberDecimal": "40"
+  },
+  "status": "purchased",
+  "ingradientType": "m-7",
+  "dailyMenu_fk": {
+    "$oid": "638c5640cb44335b4ff5dfb3"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638c5640cb44335b4ff5dfbd"
+  },
+  "ingradient": "نان",
+  "totalIngradientAmount": {
+    "$numberDecimal": "160"
+  },
+  "status": "purchased",
+  "ingradientType": "m-7",
+  "dailyMenu_fk": {
+    "$oid": "638c5640cb44335b4ff5dfb3"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638c78e8582fe0a72ba84c83"
+  },
+  "ingradient": "برنج",
+  "totalIngradientAmount": {
+    "$numberDecimal": "240"
+  },
+  "status": "purchased",
+  "ingradientType": "stock",
+  "dailyMenu_fk": {
+    "$oid": "638c78e8582fe0a72ba84c7f"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638c78e8582fe0a72ba84c85"
+  },
+  "ingradient": "روغن",
+  "totalIngradientAmount": {
+    "$numberDecimal": "15"
+  },
+  "status": "purchased",
+  "ingradientType": "stock",
+  "dailyMenu_fk": {
+    "$oid": "638c78e8582fe0a72ba84c7f"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638c78e8582fe0a72ba84c87"
+  },
+  "ingradient": "کیک",
+  "totalIngradientAmount": {
+    "$numberDecimal": "150"
+  },
+  "status": "pending",
+  "ingradientType": "m-7",
+  "dailyMenu_fk": {
+    "$oid": "638c78e8582fe0a72ba84c7f"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638c78e8582fe0a72ba84c89"
+  },
+  "ingradient": "نان",
+  "totalIngradientAmount": {
+    "$numberDecimal": "600"
+  },
+  "status": "pending",
+  "ingradientType": "m-7",
+  "dailyMenu_fk": {
+    "$oid": "638c78e8582fe0a72ba84c7f"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638c78e8582fe0a72ba84c8b"
+  },
+  "ingradient": "مساله قورمه",
+  "totalIngradientAmount": {
+    "$numberDecimal": "30"
+  },
+  "status": "purchased",
+  "ingradientType": "stock",
+  "dailyMenu_fk": {
+    "$oid": "638c78e8582fe0a72ba84c7f"
+  },
+  "__v": 0
+}]

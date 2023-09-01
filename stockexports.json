@@ -1,0 +1,134 @@
+[{
+  "_id": {
+    "$oid": "638c55c6cb44335b4ff5dca8"
+  },
+  "ingradient": "برنج",
+  "amount": {
+    "$numberDecimal": "48"
+  },
+  "price": {
+    "$numberDecimal": "90"
+  },
+  "totalPrice": {
+    "$numberDecimal": "4320"
+  },
+  "date": "1444-05-01",
+  "dailyMenu_fk": {
+    "$oid": "638c55b9cb44335b4ff5dc2f"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638c55c6cb44335b4ff5dcae"
+  },
+  "ingradient": "روغن",
+  "amount": {
+    "$numberDecimal": "3"
+  },
+  "price": {
+    "$numberDecimal": "75"
+  },
+  "totalPrice": {
+    "$numberDecimal": "225"
+  },
+  "date": "1444-05-01",
+  "dailyMenu_fk": {
+    "$oid": "638c55b9cb44335b4ff5dc2f"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638c566dcb44335b4ff5e0cc"
+  },
+  "ingradient": "برنج",
+  "amount": {
+    "$numberDecimal": "64"
+  },
+  "price": {
+    "$numberDecimal": "120"
+  },
+  "totalPrice": {
+    "$numberDecimal": "7680"
+  },
+  "date": "1444-05-02",
+  "dailyMenu_fk": {
+    "$oid": "638c5640cb44335b4ff5dfb3"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638c566dcb44335b4ff5e0d2"
+  },
+  "ingradient": "روغن",
+  "amount": {
+    "$numberDecimal": "4"
+  },
+  "price": {
+    "$numberDecimal": "100"
+  },
+  "totalPrice": {
+    "$numberDecimal": "400"
+  },
+  "date": "1444-05-02",
+  "dailyMenu_fk": {
+    "$oid": "638c5640cb44335b4ff5dfb3"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638c795d582fe0a72ba84d61"
+  },
+  "ingradient": "برنج",
+  "amount": {
+    "$numberDecimal": "240"
+  },
+  "price": {
+    "$numberDecimal": "120"
+  },
+  "totalPrice": {
+    "$numberDecimal": "28800"
+  },
+  "date": "1444-05-03",
+  "dailyMenu_fk": {
+    "$oid": "638c78e8582fe0a72ba84c7f"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638c795d582fe0a72ba84d67"
+  },
+  "ingradient": "روغن",
+  "amount": {
+    "$numberDecimal": "15"
+  },
+  "price": {
+    "$numberDecimal": "180"
+  },
+  "totalPrice": {
+    "$numberDecimal": "2700"
+  },
+  "date": "1444-05-03",
+  "dailyMenu_fk": {
+    "$oid": "638c78e8582fe0a72ba84c7f"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638c795d582fe0a72ba84d6d"
+  },
+  "ingradient": "مساله قورمه",
+  "amount": {
+    "$numberDecimal": "30"
+  },
+  "price": {
+    "$numberDecimal": "300"
+  },
+  "totalPrice": {
+    "$numberDecimal": "9000"
+  },
+  "date": "1444-05-03",
+  "dailyMenu_fk": {
+    "$oid": "638c78e8582fe0a72ba84c7f"
+  },
+  "__v": 0
+}]

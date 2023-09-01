@@ -1,0 +1,26 @@
+[{
+  "_id": {
+    "$oid": "638c59a4cb44335b4ff5e703"
+  },
+  "mattress": 2,
+  "pillow": 0,
+  "coverlet": 0,
+  "quilt": 0,
+  "bed": 0,
+  "mirror": 0,
+  "windowShade": 0,
+  "carpet": 0,
+  "table": 0,
+  "chair": 0,
+  "Dates": 1401,
+  "room_fk": {
+    "$oid": "6342f20a992b72956880fa28"
+  },
+  "students_fk": {
+    "$oid": "638aeb697e199e78a32a6180"
+  },
+  "registerBook_fk": {
+    "$oid": "63589536857976c0d29f2b36"
+  },
+  "__v": 0
+}]

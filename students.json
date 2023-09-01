@@ -1,0 +1,155 @@
+[{
+  "_id": {
+    "$oid": "6389d92e0b106ec4e67cad22"
+  },
+  "studentId": "z0232394309",
+  "name": "حسین آزادی",
+  "fName": "متین آزادی",
+  "gFName": "محمد",
+  "classroom": "2",
+  "faculty": "کمپیوتر ساینس",
+  "department": "زمین شناسی",
+  "province": "غزنی",
+  "destrict": "شیبر",
+  "tazkiraNum": "30929398",
+  "phonNum": "07954837493",
+  "photo": "bHAWxcPSQ_6.jpg",
+  "kawayef": "exist",
+  "date": "2022-12-02",
+  "book_fk": {
+    "$oid": "638b8303eb548da4c7148ba9"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6389dcab20cc2ea12d336028"
+  },
+  "studentId": "k070044324",
+  "name": "زرداد",
+  "fName": "هیبت آلله",
+  "gFName": "علیسینا پویا",
+  "classroom": "۱",
+  "faculty": "کمپیوتر ساینس",
+  "department": "آی تی",
+  "province": "زابل",
+  "destrict": "خاک افغان",
+  "tazkiraNum": "۳۱۳۰۲۴",
+  "phonNum": "۰۷۹۵۴۸۴۲۷۹",
+  "photo": "f5hBptvOA_5.jpg",
+  "kawayef": "exist",
+  "date": "2022-12-02",
+  "book_fk": {
+    "$oid": "636235dd93a66730109a1a6a"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6389e44d7de34cdff2a31566"
+  },
+  "studentId": "k090044324",
+  "name": "زرداد",
+  "fName": "هیبت آلله",
+  "gFName": "علیسینا پویا",
+  "classroom": "۱",
+  "faculty": "کمپیوتر ساینس",
+  "department": "آی تی",
+  "province": "زابل",
+  "destrict": "خاک افغان",
+  "tazkiraNum": "۳۱۳۸۲۴",
+  "phonNum": "۰۷۹۵۴۸۴۲۷۹",
+  "photo": "tstixy229_240_F_224082228_xaHZ6AiCegZcRpQURXCMxYwZmKpXvsdi.jpg",
+  "kawayef": "exist",
+  "date": "2022-12-02",
+  "book_fk": {
+    "$oid": "636235dd93a66730109a1a6a"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638aeb697e199e78a32a6180"
+  },
+  "studentId": "v0102939484",
+  "name": "مختار لشکری",
+  "fName": "شهیم لشکری",
+  "gFName": "زلمی لشکری",
+  "classroom": "2",
+  "faculty": "کمپیوتر ساینس",
+  "department": "آی تی",
+  "province": "زابل",
+  "destrict": "مشکی",
+  "tazkiraNum": "3099392",
+  "phonNum": "+93795484279",
+  "photo": "PWov4SX8R_240_F_236544403_qsI7syBx7AK9CkUy1Lw25gYqfj1rbLhH.jpg",
+  "kawayef": "exist",
+  "date": "2022-12-03",
+  "book_fk": {
+    "$oid": "63453d85d607635ad580dcc6"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638b797aea08b8e464927c4f"
+  },
+  "studentId": "k010039133",
+  "name": "علیشاه سیرت",
+  "fName": "محمد کا",
+  "gFName": "صفدر",
+  "classroom": "4",
+  "faculty": "کمپیوتر ساینس",
+  "department": "IT",
+  "province": "غزنی",
+  "destrict": "ناهور",
+  "tazkiraNum": "31039384",
+  "phonNum": "0795484279",
+  "photo": "CYNQSos3b_agenda.png",
+  "kawayef": "hanging",
+  "date": "2022-12-03",
+  "book_fk": {
+    "$oid": "636235dd93a66730109a1a6a"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638b79d6ea08b8e464927c77"
+  },
+  "studentId": "k01003913324",
+  "name": "مصباح یاوری",
+  "fName": "محمد بیگ",
+  "gFName": "صفدر",
+  "classroom": "4",
+  "faculty": "الکترو میخانیک",
+  "department": "IT",
+  "province": "غزنی",
+  "destrict": "ناهور",
+  "tazkiraNum": "3103938445",
+  "phonNum": "0795484279",
+  "photo": "byivvrFTo_cassette.png",
+  "kawayef": "hanging",
+  "date": "2022-12-03",
+  "book_fk": {
+    "$oid": "636235dd93a66730109a1a6a"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638b7bd693bce6145eb634c8"
+  },
+  "studentId": "k0329484398",
+  "name": "مهدی نظری",
+  "fName": "خادم حسین",
+  "gFName": "محمد",
+  "classroom": "4",
+  "faculty": "کمپیوتر ساینس",
+  "department": "IT",
+  "province": "دایکندی",
+  "destrict": "ناهور",
+  "tazkiraNum": "23242323",
+  "phonNum": "07954837493",
+  "photo": "fDW7l7HcZ_browser-1.png",
+  "kawayef": "graduated",
+  "date": "2022-12-03",
+  "book_fk": {
+    "$oid": "636235dd93a66730109a1a6a"
+  },
+  "__v": 0
+}]

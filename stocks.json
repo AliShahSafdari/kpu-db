@@ -1,0 +1,31 @@
+[{
+  "_id": {
+    "$oid": "638c5504cb44335b4ff5da97"
+  },
+  "ingradient": "برنج",
+  "amount": {
+    "$numberDecimal": "9648"
+  },
+  "description": "",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638c550ccb44335b4ff5dabe"
+  },
+  "ingradient": "روغن",
+  "amount": {
+    "$numberDecimal": "978"
+  },
+  "description": "",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638c7853582fe0a72ba84ba4"
+  },
+  "ingradient": "مساله قورمه",
+  "amount": {
+    "$numberDecimal": "70"
+  },
+  "description": "",
+  "__v": 0
+}]

@@ -1,0 +1,58 @@
+[{
+  "_id": {
+    "$oid": "638c517d5a29c6663fa7741c"
+  },
+  "goods_fk": {
+    "$oid": "638c44b1f107c9bfd3fbdf28"
+  },
+  "quantity": 50,
+  "price": 100,
+  "exportDocument_fk": {
+    "$oid": "638c4b8a8ff6ed37e3bc33cb"
+  },
+  "placeSend": "پوهنتون پروان",
+  "dates": "1444-05-10",
+  "registerBook_fk": {
+    "$oid": "63589536857976c0d29f2b36"
+  },
+  "considration": "بخاطر نیاز محصلین",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638c51f15a29c6663fa774f9"
+  },
+  "goods_fk": {
+    "$oid": "638c44b1f107c9bfd3fbdf28"
+  },
+  "quantity": 12,
+  "price": 100,
+  "exportDocument_fk": {
+    "$oid": "638c4b8a8ff6ed37e3bc33cb"
+  },
+  "placeSend": "پوهنتون پروان",
+  "dates": "1444-05-10",
+  "registerBook_fk": {
+    "$oid": "63589536857976c0d29f2b36"
+  },
+  "considration": "بخاطر نیازپوهنتون پروان",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638c520a5a29c6663fa7752c"
+  },
+  "goods_fk": {
+    "$oid": "638c44b1f107c9bfd3fbdf32"
+  },
+  "quantity": 33,
+  "price": 500,
+  "exportDocument_fk": {
+    "$oid": "638c4b8a8ff6ed37e3bc33cb"
+  },
+  "placeSend": "پوهنتون پروان",
+  "dates": "1444-05-10",
+  "registerBook_fk": {
+    "$oid": "63589536857976c0d29f2b36"
+  },
+  "considration": "بخاطر نیاز محصلین",
+  "__v": 0
+}]

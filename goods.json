@@ -1,0 +1,131 @@
+[{
+  "_id": {
+    "$oid": "638c44b1f107c9bfd3fbdf28"
+  },
+  "name": "دوشک",
+  "quantityOfGoods": 136,
+  "price": {
+    "$numberDecimal": "1400"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638c44b1f107c9bfd3fbdf2a"
+  },
+  "name": "بالشت",
+  "quantityOfGoods": 100,
+  "price": {
+    "$numberDecimal": "100"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638c44b1f107c9bfd3fbdf2c"
+  },
+  "name": "روجایی",
+  "quantityOfGoods": 100,
+  "price": {
+    "$numberDecimal": "100"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638c44b1f107c9bfd3fbdf2e"
+  },
+  "name": "کمپل",
+  "quantityOfGoods": 100,
+  "price": {
+    "$numberDecimal": "100"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638c44b1f107c9bfd3fbdf30"
+  },
+  "name": "چپرکت",
+  "quantityOfGoods": 100,
+  "price": {
+    "$numberDecimal": "100"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638c44b1f107c9bfd3fbdf32"
+  },
+  "name": "آینه روی",
+  "quantityOfGoods": 66,
+  "price": {
+    "$numberDecimal": "500"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638c44b1f107c9bfd3fbdf34"
+  },
+  "name": "پرده",
+  "quantityOfGoods": 100,
+  "price": {
+    "$numberDecimal": "900"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638c44b1f107c9bfd3fbdf36"
+  },
+  "name": "فرش",
+  "quantityOfGoods": 100,
+  "price": {
+    "$numberDecimal": "1500"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638c44b1f107c9bfd3fbdf38"
+  },
+  "name": "میز",
+  "quantityOfGoods": 200,
+  "price": {
+    "$numberDecimal": "100"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638c44b1f107c9bfd3fbdf3a"
+  },
+  "name": "چوکی",
+  "quantityOfGoods": 100,
+  "price": {
+    "$numberDecimal": "980"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638c7694582fe0a72ba84a85"
+  },
+  "name": "کلاس",
+  "quantityOfGoods": 6,
+  "price": {
+    "$numberDecimal": "100"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63afd5151a20c5bae04e7380"
+  },
+  "name": "کلاص",
+  "quantityOfGoods": 12,
+  "price": {
+    "$numberDecimal": "100"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d2542d4d6f33d1a3c1ea1c"
+  },
+  "name": "کمپوتر",
+  "quantityOfGoods": 12,
+  "price": {
+    "$numberDecimal": "14000"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,286 @@
+[{
+  "_id": {
+    "$oid": "638c4f3c5a29c6663fa76e72"
+  },
+  "goods_fk": {
+    "$oid": "638c44b1f107c9bfd3fbdf28"
+  },
+  "quantity": 100,
+  "price": 100,
+  "entryDocument_fk": {
+    "$oid": "638c4ab38ff6ed37e3bc32e7"
+  },
+  "placeFromRecieved": "زیاست پوهنتون",
+  "dates": "1444-05-10",
+  "registerBook_fk": {
+    "$oid": "63589536857976c0d29f2b36"
+  },
+  "considration": "بخاطر نیاز محصلین",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638c4f575a29c6663fa76ea4"
+  },
+  "goods_fk": {
+    "$oid": "638c44b1f107c9bfd3fbdf2a"
+  },
+  "quantity": 100,
+  "price": 100,
+  "entryDocument_fk": {
+    "$oid": "638c4ab38ff6ed37e3bc32e7"
+  },
+  "placeFromRecieved": "زیاست پوهنتون",
+  "dates": "1444-05-10",
+  "registerBook_fk": {
+    "$oid": "63589536857976c0d29f2b36"
+  },
+  "considration": "بخاطر نیاز محصلین",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638c4f705a29c6663fa76ed6"
+  },
+  "goods_fk": {
+    "$oid": "638c44b1f107c9bfd3fbdf2c"
+  },
+  "quantity": 100,
+  "price": 100,
+  "entryDocument_fk": {
+    "$oid": "638c4ab38ff6ed37e3bc32e7"
+  },
+  "placeFromRecieved": "زیاست پوهنتون",
+  "dates": "1444-05-10",
+  "registerBook_fk": {
+    "$oid": "63589536857976c0d29f2b36"
+  },
+  "considration": "بخاطر نیاز محصلین",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638c4f8c5a29c6663fa76f08"
+  },
+  "goods_fk": {
+    "$oid": "638c44b1f107c9bfd3fbdf2e"
+  },
+  "quantity": 100,
+  "price": 100,
+  "entryDocument_fk": {
+    "$oid": "638c4ab38ff6ed37e3bc32e7"
+  },
+  "placeFromRecieved": "زیاست پوهنتون",
+  "dates": "1444-05-10",
+  "registerBook_fk": {
+    "$oid": "63589536857976c0d29f2b36"
+  },
+  "considration": "بخاطر نیاز محصلین",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638c4f9f5a29c6663fa76f3a"
+  },
+  "goods_fk": {
+    "$oid": "638c44b1f107c9bfd3fbdf30"
+  },
+  "quantity": 100,
+  "price": 100,
+  "entryDocument_fk": {
+    "$oid": "638c4ab38ff6ed37e3bc32e7"
+  },
+  "placeFromRecieved": "زیاست پوهنتون",
+  "dates": "1444-05-10",
+  "registerBook_fk": {
+    "$oid": "63589536857976c0d29f2b36"
+  },
+  "considration": "بخاطر نیاز محصلین",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638c4fba5a29c6663fa76f6c"
+  },
+  "goods_fk": {
+    "$oid": "638c44b1f107c9bfd3fbdf32"
+  },
+  "quantity": 100,
+  "price": 500,
+  "entryDocument_fk": {
+    "$oid": "638c4ab38ff6ed37e3bc32e7"
+  },
+  "placeFromRecieved": "زیاست پوهنتون",
+  "dates": "1444-05-10",
+  "registerBook_fk": {
+    "$oid": "63589536857976c0d29f2b36"
+  },
+  "considration": "بخاطر نیاز محصلین",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638c4fd25a29c6663fa76f9e"
+  },
+  "goods_fk": {
+    "$oid": "638c44b1f107c9bfd3fbdf34"
+  },
+  "quantity": 100,
+  "price": 900,
+  "entryDocument_fk": {
+    "$oid": "638c4ab38ff6ed37e3bc32e7"
+  },
+  "placeFromRecieved": "زیاست پوهنتون",
+  "dates": "1444-05-10",
+  "registerBook_fk": {
+    "$oid": "63589536857976c0d29f2b36"
+  },
+  "considration": "بخاطر نیاز محصلین",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638c4fed5a29c6663fa76fd0"
+  },
+  "goods_fk": {
+    "$oid": "638c44b1f107c9bfd3fbdf38"
+  },
+  "quantity": 100,
+  "price": 1500,
+  "entryDocument_fk": {
+    "$oid": "638c4ab38ff6ed37e3bc32e7"
+  },
+  "placeFromRecieved": "زیاست پوهنتون",
+  "dates": "1444-05-10",
+  "registerBook_fk": {
+    "$oid": "63589536857976c0d29f2b36"
+  },
+  "considration": "بخاطر نیاز محصلین",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638c50055a29c6663fa77002"
+  },
+  "goods_fk": {
+    "$oid": "638c44b1f107c9bfd3fbdf38"
+  },
+  "quantity": 100,
+  "price": 100,
+  "entryDocument_fk": {
+    "$oid": "638c4ab38ff6ed37e3bc32e7"
+  },
+  "placeFromRecieved": "زیاست پوهنتون",
+  "dates": "1444-05-10",
+  "registerBook_fk": {
+    "$oid": "63589536857976c0d29f2b36"
+  },
+  "considration": "بخاطر نیاز محصلین",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638c50345a29c6663fa770a4"
+  },
+  "goods_fk": {
+    "$oid": "638c44b1f107c9bfd3fbdf36"
+  },
+  "quantity": 100,
+  "price": 1500,
+  "entryDocument_fk": {
+    "$oid": "638c4ab38ff6ed37e3bc32e7"
+  },
+  "placeFromRecieved": "زیاست پوهنتون",
+  "dates": "1444-05-10",
+  "registerBook_fk": {
+    "$oid": "63589536857976c0d29f2b36"
+  },
+  "considration": "بخاطر نیاز محصلین",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638c505f5a29c6663fa7714f"
+  },
+  "goods_fk": {
+    "$oid": "638c44b1f107c9bfd3fbdf3a"
+  },
+  "quantity": 100,
+  "price": 980,
+  "entryDocument_fk": {
+    "$oid": "638c4ab38ff6ed37e3bc32e7"
+  },
+  "placeFromRecieved": "زیاست پوهنتون",
+  "dates": "1444-05-10",
+  "registerBook_fk": {
+    "$oid": "63589536857976c0d29f2b36"
+  },
+  "considration": "بخاطر نیاز محصلین",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638cf2ea9e6fa360acce815c"
+  },
+  "goods_fk": {
+    "$oid": "638c7694582fe0a72ba84a85"
+  },
+  "quantity": 6,
+  "price": 100,
+  "entryDocument_fk": {
+    "$oid": "638c4ab38ff6ed37e3bc32e7"
+  },
+  "placeFromRecieved": "FORM PACE S",
+  "dates": "1444-05-10",
+  "registerBook_fk": {
+    "$oid": "63589536857976c0d29f2b36"
+  },
+  "considration": ";lkhgjfgsfgdhfgjkhlj;kljklhgkhfhgxchvjbknl",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63afd5431a20c5bae04e73fe"
+  },
+  "goods_fk": {
+    "$oid": "63afd5151a20c5bae04e7380"
+  },
+  "quantity": 12,
+  "price": 100,
+  "entryDocument_fk": {
+    "$oid": "638c4ab38ff6ed37e3bc32e7"
+  },
+  "placeFromRecieved": "کابل",
+  "dates": "1444-06-07",
+  "registerBook_fk": {
+    "$oid": "63589536857976c0d29f2b36"
+  },
+  "considration": "fddddddllllllllllllllllllllldddddddddddddf",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b26b6fb3947fdd574acabd"
+  },
+  "goods_fk": {
+    "$oid": "638c44b1f107c9bfd3fbdf28"
+  },
+  "quantity": 100,
+  "price": 1400,
+  "entryDocument_fk": {
+    "$oid": "638c4b028ff6ed37e3bc3359"
+  },
+  "placeFromRecieved": "kabul",
+  "dates": "1444-06-09",
+  "registerBook_fk": {
+    "$oid": "635605df6f1d5d754766a38c"
+  },
+  "considration": "fsdddddddddddddddddddddddddfghdfhfd",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d254944d6f33d1a3c1eaa0"
+  },
+  "goods_fk": {
+    "$oid": "63d2542d4d6f33d1a3c1ea1c"
+  },
+  "quantity": 12,
+  "price": 14000,
+  "entryDocument_fk": {
+    "$oid": "638c4ab38ff6ed37e3bc32e7"
+  },
+  "placeFromRecieved": "FORM PACE S",
+  "dates": "1444-07-04",
+  "registerBook_fk": {
+    "$oid": "63589536857976c0d29f2b36"
+  },
+  "considration": "fsdddddddddddddddddddddddddfghdfhfd",
+  "__v": 0
+}]
